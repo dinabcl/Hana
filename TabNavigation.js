@@ -12,14 +12,14 @@ const BottomTabNavigator = () => {
                 activeTintColor: 'white',
                 inactiveTintColor: 'lightgray',
                 style: {
-                    backgroundColor: '#FF6347',
+                    backgroundColor: '#384053',
                 },
                 labelStyle: {
                     fontSize: 12,
                 }
             }}
         > 
-        <Tab.Screen
+        <Tab.Screen 
              name = 'Home'
              component = {{
                 tabBarLabel: 'Home',
