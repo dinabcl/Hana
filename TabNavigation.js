@@ -1,4 +1,4 @@
-import {createBottomTabNavigator} from '@react-navigaton/bottom-tabs';
+import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import { AboutStackNavigator } from "./StackNavigator2";
 import {MaterialCommunityIcons} from '@expo/vector-icons';
 
