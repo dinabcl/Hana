@@ -1,6 +1,8 @@
 import React from 'react';
 import {View,Text,StyleSheet} from 'react-native';
 import {MaterialCommunityIcons} from '@expo/vector-icons';
+import data from '../Hana/Data.json';
+import Item from './Item';
 
 const Icon = (props) => {
     return(
